@@ -1,5 +1,0 @@
-dependencies:
-  - name: cn-node-typescript-2
-    repository: >-
-      https://artifactory-tools.csantanaocp43-cluster-fa9ee67c9ab6a7791435450358e564cc-0000.us-east.containers.appdomain.cloud/artifactory/generic-local/dev-cs2
-    version: 0.0.12
