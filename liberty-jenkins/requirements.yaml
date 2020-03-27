@@ -2,4 +2,4 @@ dependencies:
   - name: liberty-jenkins
     repository: >-
       https://artifactory-tools.gse-appmod-cataly-105456-0143c5dd31acd8e030a1d6e0ab1380e3-0000.us-south.containers.appdomain.cloud/artifactory/generic-local/gse-appmod-2
-    version: 0.0.1-development.1
+    version: 0.0.1-development.2
