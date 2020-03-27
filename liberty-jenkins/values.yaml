@@ -1,0 +1,6 @@
+liberty-jenkins:
+  replicaCount: 3
+  
+  route:
+    enabled: true
+
